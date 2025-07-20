@@ -34,7 +34,7 @@ pip install volatility3
 ```
 
 ## Sample Memory Dump
-Download the sample memory dump i used from: [Google Drive Link]([(https://drive.google.com/drive/folders/17oNCVbLMAmLFd42x_lyeqJVuzJp9YLy9?usp=drive_link)])
+Download the sample memory dump i used from: [Google Drive Link](https://drive.google.com/drive/folders/17oNCVbLMAmLFd42x_lyeqJVuzJp9YLy9?usp=drive_link)
 
 
 
